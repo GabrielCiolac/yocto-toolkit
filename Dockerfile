@@ -17,7 +17,6 @@ RUN apt-get -y update &&\
     apt-get -y install chrpath &&\
     apt-get -y install socat &&\
     apt-get -y install cpio &&\
-    apt-get -y install python &&\
     apt-get -y install python3 &&\
     apt-get -y install python3-pip &&\
     apt-get -y install python3-pexpect &&\
